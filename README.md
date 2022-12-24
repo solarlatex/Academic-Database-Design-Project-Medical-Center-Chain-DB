@@ -1,5 +1,5 @@
 # Academic-Database-Design-Project-Medical-Center-Chain-DB
-College semester project consisting of a complete database schema, metadata, dictionary and Entity-Relationship Diagram.
+College semester project consisting of a complete database schema, normalization, metadata, dictionary and Entity-Relationship Diagram.
 
 Primary purpose is to showcase that I have a deeper understanding of relational databases than just SQL and retrieving data.
 
